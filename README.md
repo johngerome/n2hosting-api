@@ -3,7 +3,7 @@
 </p>
 
 ## N2 Hosting API
-This is the source code of the api.n2hosting.com built using Strapi.
+This is the source code of api.n2hosting.com built using Strapi.
 
 ## Documentation
 https://documenter.getpostman.com/view/390924/VUjLL7Q4
