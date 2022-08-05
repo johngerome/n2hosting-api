@@ -1,0 +1,35 @@
+{
+    "kind": "collectionType",
+    "collectionName": "enquiries",
+    "info": {
+        "singularName": "enquiry",
+        "pluralName": "enquiries",
+        "displayName": "Enquiry",
+        "description": ""
+    },
+    "options": {
+        "draftAndPublish": false
+    },
+    "pluginOptions": {},
+    "attributes": {
+        "name": {
+            "type": "string",
+            "required": true,
+            "maxLength": 100,
+            "minLength": 3
+        },
+        "email": {
+            "type": "email",
+            "required": true
+        },
+        "message": {
+            "type": "richtext",
+            "minLength": 10,
+            "maxLength": 1000
+        },
+        "ip_address": {
+            "type": "string",
+            "required": true
+        }
+    }
+}
