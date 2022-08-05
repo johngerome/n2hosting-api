@@ -2,7 +2,7 @@
   "name": "n2-hosting-api",
   "private": true,
   "version": "0.1.0",
-  "description": "The API for n2hosting.com webiste",
+  "description": "The API for n2hosting.com website",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
