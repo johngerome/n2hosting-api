@@ -1,8 +1,8 @@
 {
-  "name": "n-2-hosting-api",
+  "name": "n2-hosting-api",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "The API for n2hosting.com webiste",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -16,9 +16,7 @@
     "@strapi/plugin-i18n": "4.3.2",
     "mysql": "2.18.1"
   },
-  "author": {
-    "name": "A Strapi developer"
-  },
+  "author": "johngerome <johngerome@gmail.com> (https://johngerome.github.io)",
   "strapi": {
     "uuid": "88346572-b5cf-4f4a-8ba9-cd30fa7d1b12"
   },
